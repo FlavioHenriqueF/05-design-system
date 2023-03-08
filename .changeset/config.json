@@ -8,6 +8,6 @@
   "baseBranch": "main",
   "updateInternalDependencies": "patch",
   "ignore": [
-    "docs"
+    "@my-components-template-ui/docs"
   ]
 }
