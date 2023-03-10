@@ -1,0 +1,2 @@
+import{A as t}from"./index-f80e8dbc.js";import"./index-f3c7902d.js";import"./iframe-e355aace.js";import"./index-37d14ba0.js";import"./jsx-runtime-884b0152.js";const e={title:"Typography/Avatar",component:t,args:{src:"https://github.com/flaviohenriquef.png",alt:"Flavio Henrique"},argTypes:{src:{control:{type:"text"}}}},p={},c={args:{src:void 0}},m=["Primary","WithFallback"];export{p as Primary,c as WithFallback,m as __namedExportsOrder,e as default};
+//# sourceMappingURL=Avatar.stories-7e09f799.js.map
